@@ -1,0 +1,5 @@
+enemy_tank_idle.png
+size:128,128
+repeat:none
+tank_base_idle
+bounds:2,2,64,64

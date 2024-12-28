@@ -1,0 +1,5 @@
+enemy_tank_turret.png
+size:128,128
+repeat:none
+tank_turret
+bounds:2,2,64,64

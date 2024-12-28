@@ -1,0 +1,5 @@
+tank_turret.png
+size:256,256
+repeat:none
+tank-turret
+bounds:2,2,150,150
